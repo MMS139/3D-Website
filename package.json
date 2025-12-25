@@ -1,0 +1,18 @@
+{
+  "name": "haxmas12-project",
+  "version": "1.0.0",
+  "description": "A 3D website using Three.js made for Haxmas Day 12",
+  "license": "ISC",
+  "author": "CamoKid",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
